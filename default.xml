@@ -16,4 +16,8 @@
            path="Mark2"
            revision="master"/>
 
+  <project name="openssl/openssl"
+           path="openssl/openssl"
+           revision="master"/>
+
 </manifest>

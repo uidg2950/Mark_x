@@ -4,7 +4,7 @@
            fetch="github.com:"
            revision="master"/>
 
-  <default remote="github"
+  <default remote="git"
            revision="master"
            sync-j="4"/>
 

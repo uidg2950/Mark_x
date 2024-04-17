@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="git"
+  <remote  name="github"
            fetch="github.com:"
            revision="master"/>
 
-  <default remote="git"
+  <default remote="github"
            revision="master"
            sync-j="4"/>
 

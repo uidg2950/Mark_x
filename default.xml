@@ -3,4 +3,8 @@
     <remote name="github"
         fetch="https://github.com" />
 
+    <project path="openssl"
+             name="openssl/openssl"
+	     revision="master"/>
+
 </manifest>

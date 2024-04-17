@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="github"
-        fetch="https://github.com" />
+  <remote  name="github"
+           fetch="https://github.com"
+           revision="master"/>
+
+  <default remote="github"
+           revision="master"
+           sync-j="4"/>
+
+  <project name="uidg2950/Mark1"
+           path="Mark1"
+           revision="master"/>
+
+  <project name="uidg2950/Mark2"
+           path="Mark2"
+           revision="master"/>
 
 </manifest>

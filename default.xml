@@ -19,6 +19,6 @@
 
   <project name="openssl/openssl"
            path="openssl/openssl"
-           revision="master"/>
+           revision="openssl-3.3"/>
 
 </manifest>
